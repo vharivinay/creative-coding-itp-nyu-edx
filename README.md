@@ -11,5 +11,6 @@ This course is a graduate-level, introductory creative programming course, appro
 Some solutions
 
 <img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingSols_vanilla.png" width="300">
-<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solivngsol_No2.png" width="300">
+<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No2.png" width="300">
+<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No3.png" width="300">
 
