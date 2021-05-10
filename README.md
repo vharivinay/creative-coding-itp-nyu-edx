@@ -8,8 +8,8 @@ This course is a graduate-level, introductory creative programming course, appro
 
 ### Week 1 assignment - Create walls like it is showcased on [Solving Sol](solvingsol.com)
 
-Some solutions
+Some solutions [More solutions here](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/readme.md)
 
-<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No6.png" width="400">
-<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png" width="400">
+<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png" width="350">
+<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png" width="350">
 
