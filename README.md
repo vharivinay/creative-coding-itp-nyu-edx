@@ -5,6 +5,10 @@ This course is a graduate-level, introductory creative programming course, appro
 
 ## Platform: Javascript using the library [p5.js](p5js.org)
 ----
+### Some reference notes
+[Week - 1](https://github.com/M87K452b/creative-codingitp-nyu-edx/tree/main/Week-1#readme)
+[Week - 2](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/Week-2/readme.md)
+----
 
 ### Week 1 assignment - Create walls like it is showcased on [Solving Sol](solvingsol.com)
 
