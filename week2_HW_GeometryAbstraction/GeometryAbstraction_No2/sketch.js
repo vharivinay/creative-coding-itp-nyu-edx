@@ -5,7 +5,7 @@ var vside;
 var offset = 10;
 
 function setup() {
-  createCanvas(900, 900);
+  createCanvas(windowWidth, windowHeight);
   background(0);
   colorMode(HSB);
 
@@ -28,13 +28,17 @@ function makeCircs(xpos, ypos, hside, vside) {
 }
 
 function makeRects() {
-  fill(map(xpos, 0, width, 190, 200), 255, 255);
+  fill(map(xpos, 0, width, 30, 0), 255, 255);
   rect(xpos, ypos, hside, vside);
 
   makeCircs(xpos, ypos, hside, vside);
   xpos = xpos + hside + offset;
-  vside = vside * 0.8;
+  offset *= 0.975
+  vside = vside * 0.9;
   hside = hside * 0.85;
+  if (xpos > width) {
+    noLoop();
+  }
 }
 
 function draw() {
@@ -43,5 +47,5 @@ function draw() {
   noFill();
   stroke(0);
   strokeWeight(10);
-  rect(0, 0, height, width);
+  rect(0, 0, windowWidth, windowHeight);
 }
