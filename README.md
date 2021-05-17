@@ -25,7 +25,7 @@ Some solutions [More solutions here](https://github.com/M87K452b/creative-coding
 
 ### Week 2 assignment - Geometric Abstrcation
 
-Some solutions [More here](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week2_HW_GeometryAbstrcation/readme.md)
+Some solutions [More here](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week2_HW_GeometryAbstraction/readme.md)
 
 <img align="left" src="week2_HW_GeometryAbstrcation/Solutions/geometricAbstrcation_No3.png" width="350">
 <img align="left" src="week2_HW_GeometryAbstrcation/Solutions/geometricAbstrcation_No4.png" width="350">
