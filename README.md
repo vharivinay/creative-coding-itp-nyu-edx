@@ -10,13 +10,13 @@ This course is a graduate-level, introductory creative programming course, appro
 ## Platform: Javascript using the library [p5.js](p5js.org)
 ----
 >### Some reference notes
-- [Week - 1](https://github.com/M87K452b/creative-codingitp-nyu-edx/tree/main/Week-1#readme)
-- [Week - 2](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/Week-2/readme.md)
+- [Week - 1](Week-1/readme.md)
+- [Week - 2](Week-2/readme.md)
 ----
 
 ### Week 1 assignment - Create walls like it is showcased on [Solving Sol](solvingsol.com)
 
-Some solutions [More solutions here](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/readme.md)
+Some solutions [More solutions here](week1_HW_solvingsol/readme.md)
 
 <img align="left" src="week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png" width="350">
 <img align="left" src="week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png" width="350">
@@ -31,7 +31,7 @@ Some solutions [More solutions here](https://github.com/M87K452b/creative-coding
 ----
 ### Week 2 assignment - Geometric Abstrcation
 
-Some solutions [More here](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week2_HW_GeometryAbstraction/readme.md)
+Some solutions [More here](week2_HW_GeometryAbstraction/readme.md)
 
 <img align="left" src="week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No3.png" width="350">
 <img align="left" src="week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No4.png" width="350">
