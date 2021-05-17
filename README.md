@@ -18,6 +18,13 @@ This course is a graduate-level, introductory creative programming course, appro
 
 Some solutions [More solutions here](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/readme.md)
 
-<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png" width="350">
-<img align="left" src="https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png" width="350">
+<img align="left" src="week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png" width="350">
+<img align="left" src="week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png" width="350">
+----
 
+### Week 2 assignment - Geometric Abstrcation
+Some solutions [More here](https://github.com/M87K452b/creative-codingitp-nyu-edx/blob/main/week2_HW_GeometryAbstrcation/readme.md)
+
+<img align="left" src="/week2_HW_GeometryAbstrcation/Solutions/geometricAbstrcation_No3.png" width="350">
+<img align="left" src="/week2_HW_GeometryAbstrcation/Solutions/geometricAbstrcation_No4.png" width="350">
+----
