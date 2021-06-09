@@ -12,6 +12,7 @@ This course is a graduate-level, introductory creative programming course, appro
 >### Some reference notes
 - [Week - 1](Week-1/readme.md)
 - [Week - 2](Week-2/readme.md)
+- [Week - 2](Week-3/readme.md)
 ----
 
 ### Week 1 assignment - Create walls like it is showcased on [Solving Sol](solvingsol.com)
