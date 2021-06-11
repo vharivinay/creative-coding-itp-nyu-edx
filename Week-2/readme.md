@@ -1,4 +1,7 @@
 # Week 2 - Notes
+<p>
+  This week we will learn about 2 important building blocks that are part of every programming language: variables and conditional logic. In the former, we’ll discuss the different types of data we can store in a variable, and learn to shape our programs based on conditions using if, else if, and else. After this module, you will use variables and conditional expressions, in combination with the drawing methods from last week, to recreate one of three abstract paintings. 
+</p>
 
 >## VARIABLES
 
@@ -92,6 +95,11 @@ else
 && - logicalAND - if A && B both or true
 || - logicalOR  - if A || B either one is true
 ! - NOT - if !A
+
+## Section Conclusion
+<p>
+  This week, we've covered two important building blocks for any programming language: variables and conditional logic. Share any questions you have about these topics in the forums.
+</p>
 
 >### NOTE:
 In javaScirpt "==" is loose equality and results in 

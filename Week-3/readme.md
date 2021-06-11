@@ -1,4 +1,7 @@
 ># Week 3 - Loops and Repetitions
+<p>
+    This week we’ll learn to do more with less. More specifically, we’ll learn about ‘while’ and ‘for’ loops, which enable us to draw hundreds of shapes with just a few lines of code. You will then apply the learning to draw complex shapes containing many vertices, and with p5’s beginShape(), vertex(x,y), and endShape() commands. 
+</p>
 
 ## 3.2 Loops
 >- While loop - Anatomy
@@ -83,9 +86,16 @@ TESS (WebGL)
 CLOSE (Creates a closed curve)
 </ul>
 
+
+## Section Conclusion
+<p>
+    You should now understand how loops, specifically the for and while loops can be used to generate dozens — even hundreds — of shapes in p5. Loops are a critical aspect of programming in any language, and much of the content you see on the web every day is powered, at some level, by loops. Share any questions you have about these topics in the forums, and we'll see you next week! 
+</p>
+
 ## 3.6 Additional Resources: Arrays
-- Arrays are covered later in Week 8.
-- [Some simple examples for using arrays](https://openprocessing.org/sketch/400510#)
+- [Repetition, Rhythm and Pattern](http://flyeschool.com/content/repetition-rhythm-and-pattern)
+- [The Patternbase Digital Archive](https://patternbase.tumblr.com/)
+- Arrays are covered later in Week 8. [Some simple examples for using arrays](https://openprocessing.org/sketch/400510#)
 ----
 >### Examples
 [While loop](https://openprocessing.org/sketch/400504#)
