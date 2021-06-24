@@ -37,3 +37,18 @@ Some solutions [More here](week2_HW_GeometryAbstraction/readme.md)
 <img align="left" src="week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No3.png" width="350">
 <img align="left" src="week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No4.png" width="350">
 <br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+----
+### Week 3 assignment - Moire Pattern
+
+Some solutions [More here](week3_HW_MoirePatterns/readme.md)
+
+<img align="left" src="week3_HW_MoirePatterns/solutions/concentric2.png" width="350">
+<img align="left" src="week3_HW_MoirePatterns/solutions/spiral2.png" width="350">
+<br/><br/>
