@@ -6,17 +6,17 @@ let zoomSlider;
 let rotateSlider;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(600, 600);
   background(225);
   stroke(0);
   strokeWeight(2);
 
   zoomSlider = createSlider(-0.5, 2, 1, 0.001);
-  zoomSlider.position(10, height + 25);
+  zoomSlider.position(20, 600 + 20);
   zoomSlider.style('width', '140px');
 
   rotateSlider = createSlider(-5, 5, 0, 0.001);
-  rotateSlider.position(10, height + 50);
+  rotateSlider.position(20, 600 + 40);
   rotateSlider.style('width', '140px');
 }
 
@@ -38,7 +38,7 @@ function draw() {
   translate(width / 2, height / 2);
   rotate(radians(rotateAngle));
   scale(zoomValue);
-  for (var i = 0; i < count; i++) {
+  for (i = 0; i < count; i++) {
     point(random(-width / 2, width / 2), random(-height / 2, height / 2));
   }
   pop();
