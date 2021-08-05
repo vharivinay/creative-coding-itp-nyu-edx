@@ -51,13 +51,18 @@ Some solutions [`More solutions for week 1`_]
 
 .. _More solutions for week 1: /week1_HW_solvingsol/readme.md
 
-|solution7| |solution8|
+ 
+
++-------------+-------------+
+| |solution7| | |solution8| |
++-------------+-------------+
+
 
 .. |Solution7| image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png
-    :width: 45%
+    :width: 100%
     :alt: Solution 7
 .. |Solution8| image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png
-    :width: 45%
+    :width: 100%
     :alt: Solution 8
 
 -----------------------------
