@@ -24,7 +24,7 @@
 - ### 2.5 Operators and Expressions
 - ### 2.6 Conclusion
 ----
->## Week 3: [Looping and Repetition]()
+>## Week 3: [Looping and Repetition](/Week-3/)
 - ### 3.1 Welcome and Getting Started
 - ### 3.2 Loops
 - ### 3.3 Looping in 2-Dimensions

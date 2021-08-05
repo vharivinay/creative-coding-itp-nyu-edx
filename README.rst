@@ -17,18 +17,17 @@ Course description
 This course is a graduate-level, introductory creative programming course, appropriate for students with no prior programming experience. Traditionally, introductory programming teaches algorithmic problem-solving, and scalable engineering, where a sequence of instructions describe the steps necessary to achieve a desired result. In Creative Coding, students are trained to go beyond sequential problem solving and to use the computer as a creative medium for art, games, and graphic design. This course will introduce you to a variety of concepts in programming, and how they can be applied creatively to work in a variety of media, such as 2D graphics, animation, image and video processing. A strong focus will be on creating interactive experiences for the web. By the end of this course, students will be empowered to read and write javascript for creative applications, as well as walk away with a portfolio-ready final project.
 
 Syllabus can be found here_ or on the Course_ homepage.
--------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _here: ./syllabus.md
 
-------------------------
 
-**Platform: Javascript using the library** P5js_
-------------------------------------------------
+Platform: Javascript using the library `P5js <https://www.p5js.org>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _P5js: https://www.p5js.org
+p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!
 
------------------------
+-------------------------
 
 Some reference notes
 --------------------
@@ -42,8 +41,11 @@ Notes for each week:
 
 ---------------------------
 
+Some example solutions
+----------------------
+
 Week 1 assignment - Create walls like it is showcased on [`Solving Sol`_])
---------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _Solving Sol: https://www.solvingsol.com
 
@@ -65,7 +67,7 @@ Some solutions [`More solutions for week 1`_]
 -----------------------------
 
 Week 2 assignment - Geometric Abstraction
------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Some solutions [`More solutions for week 2`_]
 
@@ -86,7 +88,7 @@ Some solutions [`More solutions for week 2`_]
 ----------------------------
 
 Week 3 assignment - Moire Pattern
----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Some solutions [`More solutions for week 3`_]
 
 .. _More solutions for week 3: ./week3_HW_MoirePatterns/readme.md
