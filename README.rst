@@ -47,13 +47,16 @@ Some solutions [`More solutions for week 1`_]
 
 .. _More solutions for week 1: /week1_HW_solvingsol/readme.md
 
-.. image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png
-    :width: 250
-    :alt: Solution No 7
+|solution7| |solution8|
 
-.. image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png
+.. |Solution7| image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png
     :width: 250
-    :alt: Solution No 8
+    :height: 250
+    :alt: Solution 7
+.. |Solution8| image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png
+    :width: 250
+    :height: 250
+    :alt: Solution 8
 
 -----------------------------
 
@@ -64,11 +67,13 @@ Some solutions [`More solutions for week 2`_]
 
 .. _More solutions for week 2: ./week2_HW_GeometryAbstraction/readme.md
 
-.. image:: ./week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No3.png
+|GeometricAbstraction3| |GeometricAbstraction4|
+
+.. |GeometricAbstraction3| image:: ./week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No3.png
     :width: 250
     :alt: Geometric Abstraction 3
 
-.. image:: ./week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No4.png
+.. |GeometricAbstraction4| image:: ./week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No4.png
     :width: 250
     :alt: Solution No 4
 
@@ -80,10 +85,12 @@ Some solutions [`More solutions for week 3`_]
 
 .. _More solutions for week 3: ./week3_HW_MoirePatterns/readme.md
 
-.. image:: ./week3_HW_MoirePatterns/solutions/concentric2.png
+|Concentric2| |Spiral2|
+
+.. |Concentric2| image:: ./week3_HW_MoirePatterns/solutions/concentric2.png
     :width: 250
     :alt: Concentric 2
 
-.. image:: ./week3_HW_MoirePatterns/solutions/spiral2.png
+.. |Spiral2| image:: ./week3_HW_MoirePatterns/solutions/spiral2.png
     :width: 250
     :alt: Spiral 2
