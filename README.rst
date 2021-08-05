@@ -1,6 +1,10 @@
 Creative Coding (NYUx DMEDX6063) on EdX
 =======================================
 
+.. contents::
+
+--------------------------
+
 Link to the Course_
 -------------------
 
@@ -50,12 +54,10 @@ Some solutions [`More solutions for week 1`_]
 |solution7| |solution8|
 
 .. |Solution7| image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png
-    :width: 250
-    :height: 250
+    :width: 40
     :alt: Solution 7
 .. |Solution8| image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png
-    :width: 250
-    :height: 250
+    :width: 40
     :alt: Solution 8
 
 -----------------------------
@@ -70,11 +72,11 @@ Some solutions [`More solutions for week 2`_]
 |GeometricAbstraction3| |GeometricAbstraction4|
 
 .. |GeometricAbstraction3| image:: ./week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No3.png
-    :width: 250
+    :width: 40
     :alt: Geometric Abstraction 3
 
 .. |GeometricAbstraction4| image:: ./week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No4.png
-    :width: 250
+    :width: 40
     :alt: Solution No 4
 
 ----------------------------
@@ -88,9 +90,9 @@ Some solutions [`More solutions for week 3`_]
 |Concentric2| |Spiral2|
 
 .. |Concentric2| image:: ./week3_HW_MoirePatterns/solutions/concentric2.png
-    :width: 250
+    :width: 40
     :alt: Concentric 2
 
 .. |Spiral2| image:: ./week3_HW_MoirePatterns/solutions/spiral2.png
-    :width: 250
+    :width: 40
     :alt: Spiral 2
