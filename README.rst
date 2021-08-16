@@ -51,16 +51,16 @@ Week 1 assignment - Create walls like it is showcased on [`Solving Sol`_])
 
 Some solutions [`More solutions for week 1`_]
 
-.. _More solutions for week 1: /week1_HW_solvingsol/readme.md
+.. _More solutions for week 1: ./hw_Solutions/week1_HW_solvingsol/readme.md
 
 +-------------+-------------+
 | |solution7| | |solution8| |
 +-------------+-------------+
 
-.. |Solution7| image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png
+.. |Solution7| image:: ./hw_Solutions/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png
     :width: 100%
     :alt: Solution 7
-.. |Solution8| image:: ./week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png
+.. |Solution8| image:: ./hw_Solutions/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png
     :width: 100%
     :alt: Solution 8
 
@@ -71,17 +71,17 @@ Week 2 assignment - Geometric Abstraction
 
 Some solutions [`More solutions for week 2`_]
 
-.. _More solutions for week 2: ./week2_HW_GeometryAbstraction/readme.md
+.. _More solutions for week 2: ./hw_Solutions/week2_HW_GeometryAbstraction/readme.md
 
 +-------------------------+-------------------------+
 | |GeometricAbstraction3| | |GeometricAbstraction4| |
 +-------------------------+-------------------------+
 
-.. |GeometricAbstraction3| image:: ./week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No3.png
+.. |GeometricAbstraction3| image:: ./hw_Solutions/week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No3.png
     :width: 100%
     :alt: Geometric Abstraction 3
 
-.. |GeometricAbstraction4| image:: ./week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No4.png
+.. |GeometricAbstraction4| image:: ./hw_Solutions/week2_HW_GeometryAbstraction/Solutions/geometricAbstrcation_No4.png
     :width: 100%
     :alt: Solution No 4
 
@@ -91,16 +91,16 @@ Week 3 assignment - Moire Pattern
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Some solutions [`More solutions for week 3`_]
 
-.. _More solutions for week 3: ./week3_HW_MoirePatterns/readme.md
+.. _More solutions for week 3: ./hw_Solutions/week3_HW_MoirePatterns/readme.md
 
 +---------------+---------------+
 | |Concentric2| |   |Spiral2|   |
 +---------------+---------------+
 
-.. |Concentric2| image:: ./week3_HW_MoirePatterns/solutions/concentric2.png
+.. |Concentric2| image:: ./hw_Solutions/week3_HW_MoirePatterns/solutions/concentric2.png
     :width: 100%
     :alt: Concentric 2
 
-.. |Spiral2| image:: ./week3_HW_MoirePatterns/solutions/spiral2.png
+.. |Spiral2| image:: ./hw_Solutions/week3_HW_MoirePatterns/solutions/spiral2.png
     :width: 100%
     :alt: Spiral 2
