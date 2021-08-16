@@ -97,6 +97,8 @@ Some solutions [`More solutions for week 3`_]
 
 .. |Spiral2| image:: ./hw_Solutions/week3_HW_MoirePatterns/solutions/spiral2.png
 
-Wee 4 assignment - Nothing Prescribed in Audit track
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Here is something interesting I came up with!
+Wee 4 assignment 
+~~~~~~~~~~~~~~~~~
+
+- No assignments prescribed for this section in the audit track
+- Feel free explore colors on your own
