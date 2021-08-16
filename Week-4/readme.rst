@@ -24,15 +24,16 @@ color
 - color takes 3 parameters ⟶ red channel, green channel, blue channel
 - color can also be specified as string
   
-.. note::
+.. code-block:: javascript
 
-    color can also be specified in the following ways
+    //color can also be specified in the following ways
 
-    - numbers ⟶ var c = color(255,0,0);
-
-    - strings ⟶ var c = color("rgb(100%,0%,0%)");
-
-    - hexadecimal ⟶ var c = color("#ff0000");
+    // numbers
+    var c = color(255,0,0);
+    // strings
+    var c = color("rgb(100%,0%,0%)");
+    // hexadecimal
+    var c = color("#ff0000");
 
 
 fill value
