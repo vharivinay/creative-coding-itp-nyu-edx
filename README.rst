@@ -33,11 +33,12 @@ Some reference notes
 --------------------
 
 Notes for each week:
-    - Week-1_ | Week-2_ | Week-3_ 
+    - Week-1_ | Week-2_ | Week-3_ | Week-4_
   
     .. _Week-1 : ./Week-1/readme.md
     .. _Week-2 : ./Week-2/readme.md
     .. _Week-3 : ./Week-3/readme.md
+    .. _Week-4 : ./Week-4/readme.rst
 
 ---------------------------
 
@@ -93,3 +94,7 @@ Some solutions [`More solutions for week 3`_]
 .. |Concentric2| image:: ./hw_Solutions/week3_HW_MoirePatterns/solutions/concentric2.png
 
 .. |Spiral2| image:: ./hw_Solutions/week3_HW_MoirePatterns/solutions/spiral2.png
+
+Wee 4 assignment - Nothing Prescribed in Audit track
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Here is something interesting I came up with!
