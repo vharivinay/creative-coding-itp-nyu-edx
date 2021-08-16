@@ -54,7 +54,7 @@ Some solutions [`More solutions for week 1`_]
 .. _More solutions for week 1: ./hw_Solutions/week1_HW_solvingsol/readme.md
 
 +-------------+-------------+
-| |solution7| | |solution8| |
+| |Solution7| | |Solution8| |
 +-------------+-------------+
 
 .. |Solution7| image:: ./hw_Solutions/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png
