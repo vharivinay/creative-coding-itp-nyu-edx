@@ -86,7 +86,7 @@ This a representation of color in a graphical format
 
 .. image:: ../assets/newton-disc.png
     :alt: Newton Disc
-    :width: 300
+    :width: 400px
     :align: center    
 
 - FunFact: He did this with musical notes as well to suggest that like music colors could harmonize with each other (I don't get either!)
