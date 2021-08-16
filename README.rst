@@ -1,7 +1,6 @@
 Creative Coding (NYUx DMEDX6063) on EdX
 =======================================
 
-
 Link to the Course_
 -------------------
 
