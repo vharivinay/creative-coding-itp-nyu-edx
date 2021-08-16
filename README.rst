@@ -51,7 +51,7 @@ Week 1 assignment - Create walls like it is showcased on [`Solving Sol`_])
 
 Some solutions [`More solutions for week 1`_]
 
-.. _More solutions for week 1: ./hw_Solutions/week1_HW_solvingsol/readme.md
+.. _More solutions for week 1: ./hw_Solutions/week1_HW_solvingsol/readme.rst
 
 +-------------+-------------+
 | |Solution7| | |Solution8| |
@@ -71,7 +71,7 @@ Week 2 assignment - Geometric Abstraction
 
 Some solutions [`More solutions for week 2`_]
 
-.. _More solutions for week 2: ./hw_Solutions/week2_HW_GeometryAbstraction/readme.md
+.. _More solutions for week 2: ./hw_Solutions/week2_HW_GeometryAbstraction/readme.rst
 
 +-------------------------+-------------------------+
 | |GeometricAbstraction3| | |GeometricAbstraction4| |
@@ -91,7 +91,7 @@ Week 3 assignment - Moire Pattern
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Some solutions [`More solutions for week 3`_]
 
-.. _More solutions for week 3: ./hw_Solutions/week3_HW_MoirePatterns/readme.md
+.. _More solutions for week 3: ./hw_Solutions/week3_HW_MoirePatterns/readme.rst
 
 +---------------+---------------+
 | |Concentric2| |   |Spiral2|   |
