@@ -23,7 +23,7 @@ color
 
 - color takes 3 parameters ⟶ red channel, green channel, blue channel
   
-.. image:: ../assets/rgb-colorspace.jpg
+.. image:: ../assets/week-4/rgb-colorspace.jpg
     :alt: RGB color
     :width: 50%
     :align: center
@@ -59,7 +59,7 @@ fill value
 Representation of colors in HSB mode.
 -------------------------------------
   
-.. image:: ../assets/HSB-cone.jpg
+.. image:: ../assets/week-4/HSB-cone.jpg
     :alt: HSB cone
     :width: 50%
     :align: center
@@ -84,7 +84,7 @@ This a representation of color in a graphical format
     - Arranged complementary colors opposite to each other in a circle.
     - Each side enhanced the other through optical contrast.
 
-.. image:: ../assets/newton-disc.png
+.. image:: ../assets/week-4/newton-disc.png
     :alt: Newton Disc
     :width: 400px
     :align: center    
@@ -97,10 +97,10 @@ Color Harmonies
 | |harmony| | |cool-warm| |
 +-----------+-------------+
 
-.. |cool-warm| image:: ../assets/cold-warm.png
+.. |cool-warm| image:: ../assets/week-4/cold-warm.png
     :width: 100%
 
-.. |harmony| image:: ../assets/color-harmonies.jpeg
+.. |harmony| image:: ../assets/week-4/color-harmonies.jpeg
     :width: 100%
 
 - Hue is the representation of the angle along the color wheel
