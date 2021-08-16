@@ -57,10 +57,10 @@ Some solutions [`More solutions for week 1`_]
 | |Solution7| | |Solution8| |
 +-------------+-------------+
 
-.. |Solution7| image:: ./hw_Solutions/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No7.png
+.. |Solution7| image:: ./hw_Solutions/week1_HW_solvingsol/Solutions_SolvingSol/solvingsol_No7.png
     :width: 100%
     :alt: Solution 7
-.. |Solution8| image:: ./hw_Solutions/week1_HW_solvingsol/Solutions_SolivngSol/solvingsol_No8.png
+.. |Solution8| image:: ./hw_Solutions/week1_HW_solvingsol/Solutions_SolvingSol/solvingsol_No8.png
     :width: 100%
     :alt: Solution 8
 
