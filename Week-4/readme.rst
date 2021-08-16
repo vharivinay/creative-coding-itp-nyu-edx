@@ -85,17 +85,17 @@ This a representation of color in a graphical format
     - Each side enhanced the other through optical contrast.
 
 .. image:: ../assets/newton-disc.png
-    :alt: HSB cone
-    :width: 50%
+    :alt: Newton Disc
+    :width: 25%
     :align: center    
 
 - FunFact: He did this with musical notes as well to suggest that like music colors could harmonize with each other (I don't get either!)
 
 Color Harmonies
 ---------------
-+-------------+-----------+
-| |cool-warm| | |harmony| |
-+-------------+-----------+
++-----------+-------------+
+| |harmony| | |cool-warm| |
++-----------+-------------+
 
 .. |cool-warm| image:: ../assets/cold-warm.png
     :width: 100%
