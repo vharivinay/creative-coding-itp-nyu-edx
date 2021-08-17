@@ -35,11 +35,13 @@ Some reference notes
 
 Notes for each week:
     - Week-1_ | Week-2_ | Week-3_ | Week-4_
+    - Week-5_
   
     .. _Week-1 : ./Week-1/readme.md
     .. _Week-2 : ./Week-2/readme.md
     .. _Week-3 : ./Week-3/readme.md
     .. _Week-4 : ./Week-4/readme.rst
+    .. _Week-5 : ./Week-5/readme.rst
 
 ---------------------------
 
@@ -96,8 +98,14 @@ Some solutions [`More solutions for week 3`_]
 
 .. |Spiral2| image:: ./hw_Solutions/week3_HW_MoirePatterns/solutions/spiral2.png
 
-Wee 4 assignment 
-~~~~~~~~~~~~~~~~~
+Week 4
+~~~~~~
 
 - No assignments prescribed for this section in the audit track
 - Feel free explore colors on your own
+
+Week 5
+~~~~~~
+
+- No assignments prescribed for this section in the audit track
+- Feel free explore functions on your own
