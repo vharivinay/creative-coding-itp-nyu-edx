@@ -160,5 +160,5 @@ More information on these functions here
 
 Note:
 ~~~~~
-keyPressed() and keyTyped() are similar functions except keyTyped is case sensitive.
-mouseClicked() does what both mousePressed() and mouseReleased() together do.
+- keyPressed() and keyTyped() are similar functions except keyTyped is case sensitive.
+- mouseClicked() does what both mousePressed() and mouseReleased() together do.
