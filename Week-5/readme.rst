@@ -130,7 +130,7 @@ Some useful built-in functions in P5js are
 
     mouseMoved()
 
-The functions are used just like setup and draw functions in P5js.
+These functions are used just like setup and draw functions in P5js.
 i.e., Declare the function write the desired logic in the function body.
 
 .. code-block:: javascript
