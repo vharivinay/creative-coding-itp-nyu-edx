@@ -1,6 +1,8 @@
 Creative Coding (NYUx DMEDX6063) on EdX
 =======================================
 
+**Work in progress - Currently refactoring code and moving notes to markup format!**
+
 Link to the Course_
 -------------------
 
