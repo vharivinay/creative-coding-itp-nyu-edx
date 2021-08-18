@@ -74,7 +74,7 @@ Example
         rect(0, 0, width / 2, height / 2);
     }
 
-- Result in...
+- Results in...
 
 .. image:: ../assets/week-5/translate.png
     :alt: translate example
