@@ -35,13 +35,14 @@ Some reference notes
 
 Notes for each week:
     - Week-1_ | Week-2_ | Week-3_ | Week-4_
-    - Week-5_
+    - Week-5_ | Week-6_
   
     .. _Week-1 : ./Week-1/readme.md
     .. _Week-2 : ./Week-2/readme.md
     .. _Week-3 : ./Week-3/readme.md
     .. _Week-4 : ./Week-4/readme.rst
     .. _Week-5 : ./Week-5/readme.rst
+    .. _Week-6 : ./Week-6/readme.rst
 
 ---------------------------
 
@@ -109,3 +110,16 @@ Week 5
 
 - No assignments prescribed for this section in the audit track
 - Feel free explore functions on your own
+
+Week 6
+~~~~~~
+In this week, the topics covered are transformations.
+Transformation is of following types.
+
+- Translations - moving origin from one point to another
+- Rotation - Rotation about a origin point or an axis
+- Scale - Changing the size of an object in various dimensions
+
+NOTE: Explore transformations and order of transformations for a deeper understanding.
+
+There are no prescribed assignments in the audit track.
