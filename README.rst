@@ -33,7 +33,7 @@ p5.js is a JavaScript library for creative coding, with a focus on making coding
 Some reference notes
 --------------------
 
-Notes for each week:
+Some notes for each week:
     - Week-1_ | Week-2_ | Week-3_ | Week-4_
     - Week-5_ | Week-6_
   
