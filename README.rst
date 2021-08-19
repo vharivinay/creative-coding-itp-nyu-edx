@@ -37,7 +37,7 @@ Some reference notes
 
 Some notes for each week:
     - Week-1_ | Week-2_ | Week-3_ | Week-4_
-    - Week-5_ | Week-6_
+    - Week-5_ | Week-6_ | Week-7_
   
     .. _Week-1 : ./Week-1/readme.md
     .. _Week-2 : ./Week-2/readme.md
@@ -45,6 +45,7 @@ Some notes for each week:
     .. _Week-4 : ./Week-4/readme.rst
     .. _Week-5 : ./Week-5/readme.rst
     .. _Week-6 : ./Week-6/readme.rst
+    .. _Week-7 : ./Week-7/readme.rst
 
 ---------------------------
 
@@ -125,3 +126,15 @@ Transformation is of following types.
 NOTE: Explore transformations and order of transformations for a deeper understanding.
 
 There are no prescribed assignments in the audit track.
+
+Week 7
+~~~~~~
+
+In this section, the following topics are discussed
+
+- Harmonic Motion and Oscillations
+- Linear Motion
+- Elastic Motion
+- Inspiration for motion graphics
+  - Lissajous Curves
+
