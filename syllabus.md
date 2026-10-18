@@ -111,8 +111,20 @@
 - ### 11.11 Conclusion
 ----
 >## Week 12: [Image]()
+- ### 12.1 Welcome & Getting Started
+- ### 12.2 Loading & Displaying Images
+- ### 12.3 Image Tint & Filter
+- ### 12.4 Image Pixels
+- ### 12.5 Animated Images or Sprites
+- ### 12.6 Other Tools for Working with Images
 ----
 >## Week 13: [Video]()
+- ### 13.1 Welcome & Getting Started
+- ### 13.2 Finding Video
+- ### 13.3 Video Formats and Data
+- ### 13.4 Video Cues and Canvas
+- ### 13.5 Video Inspiration and Webcam Video
+- ### 13.6 Resources and Conclusion
 ----
 >## Week 14: [Course Conclusion]()
 ----

@@ -1,0 +1,6 @@
+[
+  { "time": 8, "number_of_pushups": 12, "exhaustion": 2 },
+  { "time": 12, "number_of_pushups": 10, "exhaustion": 6 },
+  { "time": 16, "number_of_pushups": 16, "exhaustion": 8 },
+  { "time": 20, "number_of_pushups": 10, "exhaustion": 10 }
+]

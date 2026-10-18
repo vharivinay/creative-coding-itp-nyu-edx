@@ -37,8 +37,10 @@ Some reference notes
 
 Some notes for each week:
     - Week-1_ | Week-2_ | Week-3_ | Week-4_
-    - Week-5_ | Week-6_ | Week-7_
-  
+    - Week-5_ | Week-6_ | Week-7_ | Week-8_
+    - Week-9_ | Week-10_ | Week-11_ | Week-12_
+    - Week-13_
+
     .. _Week-1 : ./Week-1/readme.md
     .. _Week-2 : ./Week-2/readme.md
     .. _Week-3 : ./Week-3/readme.md
@@ -46,6 +48,12 @@ Some notes for each week:
     .. _Week-5 : ./Week-5/readme.rst
     .. _Week-6 : ./Week-6/readme.rst
     .. _Week-7 : ./Week-7/readme.rst
+    .. _Week-8 : ./Week-8/readme.rst
+    .. _Week-9 : ./Week-9/readme.rst
+    .. _Week-10 : ./Week-10/readme.rst
+    .. _Week-11 : ./Week-11/readme.rst
+    .. _Week-12 : ./Week-12/readme.rst
+    .. _Week-13 : ./Week-13/readme.rst
 
 ---------------------------
 
@@ -137,4 +145,67 @@ In this section, the following topics are discussed
 - Elastic Motion
 - Inspiration for motion graphics
   - Lissajous Curves
+
+Week 8
+~~~~~~
+
+In this section, the following topics are discussed
+
+- Arrays - collections
+- Objects - object literals and classes
+- Particle Systems
+
+Example - Create an array of radii and use it to draw circles. See Week-8_ notes.
+
+Week 9
+~~~~~~
+
+In this section, the following topics are discussed
+
+- HTML and the DOM
+- Creating and positioning HTML elements
+- Synchronous vs asynchronous code
+- Events and callback functions
+
+Week 10
+~~~~~~~
+
+In this section, the following topics are discussed
+
+- Libraries
+- RiTa.js - text analysis and generation
+- textWidth
+- preload and loadStrings
+
+Example - Generative Haiku. See Week-10_ notes.
+
+Week 11
+~~~~~~~
+
+In this section, the following topics are discussed
+
+- Data formats - CSV, TSV, JSON, XML
+- Loading data - loadTable and loadJSON
+- Stages of visualizing data
+- d3.js
+
+Week 12
+~~~~~~~
+
+In this section, the following topics are discussed
+
+- Loading and displaying images
+- Tint and filter
+- Image pixels - copy and get
+- Sprites and image sequences
+
+Week 13
+~~~~~~~
+
+In this section, the following topics are discussed
+
+- Video formats
+- Video data and cues
+- Video in the canvas
+- Webcam
 
